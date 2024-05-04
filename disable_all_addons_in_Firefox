@@ -1,2 +1,3 @@
 // go to "about:addons" page, express code in a console:
 (elements=document.querySelectorAll('[aria-label="Enable"]')).forEach(l=>{l.click()});
+// then use the same code again to turn extensions on 
